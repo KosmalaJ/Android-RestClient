@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Logowanie do turniejów</string>
+    <string name="username">Mail:</string>
+    <string name="password">Hasło:</string>
+    <string name="submit">Zaloguj</string>
+
+</resources>
